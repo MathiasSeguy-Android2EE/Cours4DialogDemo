@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- /<ul> -->
+<!-- <li>Cours4DialogDemo</li> -->
+<!-- <li>com.android2ee.licence.cours4.demo.dialogs</li> -->
+<!-- <li>10 févr. 2012</li> -->
+
+<!-- <li>======================================================</li> -->
+
+<!-- <li>Projet : Mathias Seguy Project</li> -->
+<!-- <li>Produit par MSE.</li> -->
+
+<!-- / -->
+<!-- <ul> -->
+<!-- Android Tutorial, An <strong>Android2EE</strong>'s project.</br> -->
+<!-- Produced by <strong>Dr. Mathias SEGUY</strong>.</br> -->
+<!-- Delivered by <strong>http://android2ee.com/</strong></br> -->
+<!-- Belongs to <strong>Mathias Seguy</strong></br> -->
+<!-- </br> -->
+<!-- This code is free for any usage except training and can't be distribute.</br> -->
+<!-- The distribution is reserved to the site <strong>http://android2ee.com</strong>.</br> -->
+<!-- The intelectual property belongs to <strong>Mathias Seguy</strong>.</br> -->
+<!-- <em>http://mathias-seguy.developpez.com/</em></br> </br> -->
+
+<!-- </br> -->
+<!-- Ce code est libre de toute utilisation mais n'est pas distribuable.</br> -->
+<!-- Sa distribution est reservée au site <strong>http://android2ee.com</strong>.</br> -->
+<!-- Sa propriété intellectuelle appartient à <strong>Mathias Seguy</strong>.</br> -->
+<!-- <em>http://mathias-seguy.developpez.com/</em></br> </br> -->
+<!-- </br> -->
+<!-- / -->
+<resources>
+
+    <string name="hello">Hello World, Cours4DialogDemoActivity! Choose the Dialog to Display !</string>
+    <string name="app_name">AlertDialog</string>
+    <!-- Button Label -->
+    <string name="ShowAlertDialog">Show simple AlertDialog with message</string>
+    <string name="ShowAlertDialogWith">Show AlertDialog with items</string>
+    <string name="ShowAlertDialogWithCB">Show AlertDialog with checkBoxes</string>
+    <string name="ShowCustomAlertDialogTitleless">Show A Custom Dialog </string>
+    <string name="ShowCustomAlertDialogWithTitle">Show A Custom AlertDialog</string>
+    <string name="ShowProgressBar">Show ProgressDialog</string>
+    <string name="ShowProgressBarIndeterminate">Show ProgressDialog Indeterminate</string>
+    <string name="ShowToast">Show a custom Toast</string>
+    <!-- Dialog simple text -->
+    <string name="dialog_message">Hello The Dialog message</string>
+    <string name="dialog_Title">This is a title. And choose an item :o)</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_cancel">Cancel</string>
+    <!-- Items -->
+    <string-array name="items">
+        <item>Items 1</item>
+        <item>Items 2</item>
+        <item>Items 3</item>
+        <item>Items 4</item>
+    </string-array>
+    <!-- Toast message -->
+    <string name="ToastMessage">Hello, I am a custom Toast</string>
+    <!-- Custom Dialog String -->
+    <string name="CustomDialogTitle">Hello, I am a custom dialog title</string>
+    <string name="CustomDialogMessage">Hello, I am a custom dialog message</string>
+    <string name="Close">Close</string>
+    <!-- ProgressDialog string -->
+    <string name="progressDialogTitle">Title: I\'m doing something</string>
+    <string name="Loading">Loading... \r\n(in fact no, I am a fake :o))</string>
+
+</resources>
